@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ImageServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ImageServer_jar</output-path>
+    <root id="archive" name="ImageServer.jar">
+      <element id="module-output" name="javaServer" />
+    </root>
+  </artifact>
+</component>
